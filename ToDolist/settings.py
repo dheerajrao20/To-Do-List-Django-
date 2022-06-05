@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-jshws-dm7)0m)0l(inw24h#%g0m+%*co6wxveqv8$687%vtu=2
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'easytodolistwebapp.herokuapp.com'
+    'easynewtodolist.herokuapp.com'
 ]
 
 
