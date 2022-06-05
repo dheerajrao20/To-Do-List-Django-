@@ -50,7 +50,6 @@ psycopg2==2.9.3
 PyAutoGUI==0.9.53
 pycodestyle==2.8.0
 pycparser==2.21
-pygames==0.1
 PyGetWindow==0.0.9
 pyjokes==0.6.0
 PyMsgBox==1.0.9
